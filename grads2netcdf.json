@@ -1,0 +1,14 @@
+{
+  "dataset": {
+	  "title":"SOMD downscaled from WFDEI",
+      "institution":"Climate System Analysis Group, University of Cape Town",
+      "center":"Climate System Analysis Group, University of Cape Town"
+  },
+  "variables": {
+      "pr": {"standard_name": "precipitation amount",
+             "long_name": "daily total precipitation",
+             "units": "kg m-2"
+            }
+  }
+}
+            
